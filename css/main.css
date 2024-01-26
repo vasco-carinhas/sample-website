@@ -5,3 +5,53 @@
 .nav-spacing {
   margin: 0 0 0 10px;
 }
+
+.image-link {
+  text-decoration: none;
+}
+
+.nav-home {
+  text-decoration: none; 
+  color: blue;
+}
+
+.blockquote-style {
+  padding: 2px 20px; 
+  background: #fafafa;
+}
+
+.header {
+  text-align: center; 
+  margin: 0 0 80px;
+}
+
+.header-align {
+  text-align: center;
+}
+
+.main-image {
+  display: block; 
+  margin: 0 auto
+}
+
+.centered-content {
+  display: block; 
+  margin: 0 auto;
+}
+
+.book-cover {
+  float: left; 
+  margin: 0 40px 0 0;
+}
+
+.blockquote-book {
+  font-style: italic; 
+  font-size: 20px;
+}
+
+.red-intro {
+  font-style: normal; 
+  font-size: 24px; 
+  font-weight: bold;
+      color: red;
+}
